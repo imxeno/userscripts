@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         GitHub - show 'Raw' button on commit page
 // @namespace    https://github.com/imxeno/userscripts/
-// @version      0.1
+// @version      0.2
 // @description  Show 'Raw' button on commit page that allows you to jump directly to raw view of the commit.
 // @author       imxeno
-// @include      /^https:\/\/github.com\/(.+)\/(.+)\/commit\/(\w+)$/
+// @include      /^http(|s):\/\/github.com\/(.+)\/(.+)\/commit\/(\w+)$/
 // @grant        none
 // ==/UserScript==
 
