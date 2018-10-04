@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Show 'Raw' button on commit page that allows you to jump directly to raw view of the commit.
 // @author       imxeno
-// @include        /^https:\/\/github.com\/(\w+)\/(\w+)\/commit\/(\w+)$/
+// @include      /^https:\/\/github.com\/(.+)\/(.+)\/commit\/(\w+)$/
 // @grant        none
 // ==/UserScript==
 
